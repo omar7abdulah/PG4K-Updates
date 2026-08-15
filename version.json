@@ -1,11 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 2,
+  "versionName": "1.0.1",
   "title": "يتوفر تحديث جديد لـ PG 4K",
-  "features": [
-    "تحسين سرعة فتح المفضلة والقنوات المخفية",
-    "تحسين نظام القفل الأبوي",
-    "تحسينات في الأداء والاستقرار"
-  ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/latest/download/PG4K.apk"
+  "features": [],
+  "apkUrl": ""
 }
