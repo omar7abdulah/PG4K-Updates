@@ -1,12 +1,12 @@
 {
-  "versionCode": 46,
+  "versionCode": 48,
   "versionName": "1.0.3",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
+    "إصلاح مشكلة خروج التطبيق عند فتح البث المباشر",
+    "تحسين عزل إعدادات القفل الأبوي لكل حساب",
     "إظهار اسم الاشتراك تلقائياً حسب السيرفر",
-    "دعم Strong 8K و Neo 4K و Eagle و Weezy Pro",
-    "الحفاظ على اسم الاشتراك عند التبديل بين الهوست الأساسي والاحتياطي",
     "تحسين الاستقرار العام"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.3-v46/PG4K-1.0.3-v46.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.3-v48/PG4K-1.0.3-v48.apk"
 }
