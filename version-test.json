@@ -1,14 +1,12 @@
 {
-  "versionCode": 45,
+  "versionCode": 46,
   "versionName": "1.0.3",
   "title": "تحديث تجريبي لـ PG 4K",
   "features": [
-    "تحسين أداء التطبيق مع مكتبات الأفلام والمسلسلات والقنوات الكبيرة",
-    "تحسين سرعة واستقرار تحميل المحتوى الكبير",
-    "إعادة أعداد التصنيفات بدون طلبات شبكة إضافية",
-    "تحسين واجهة وتصنيفات البث المباشر على شاشات التلفزيون",
-    "تحسين عرض نافذة المحتوى المخفي على شاشات Android المختلفة",
+    "إظهار اسم الاشتراك تلقائياً حسب السيرفر",
+    "دعم Strong 8K و Neo 4K و Eagle و Weezy Pro",
+    "الحفاظ على اسم الاشتراك عند التبديل بين الهوست الأساسي والاحتياطي",
     "تحسين الاستقرار العام"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v45-TEST.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v46-TEST.apk"
 }
