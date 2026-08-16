@@ -1,12 +1,12 @@
 {
-  "versionCode": 48,
+  "versionCode": 49,
   "versionName": "1.0.3",
   "title": "تحديث تجريبي لـ PG 4K",
   "features": [
-    "إظهار اسم الاشتراك تلقائياً حسب السيرفر",
-    "دعم Strong 8K و Neo 4K و Eagle و Weezy Pro",
-    "الحفاظ على اسم الاشتراك عند التبديل بين الهوست الأساسي والاحتياطي",
+    "دعم إعادة تعيين القفل الأبوي لعميل واحد من لوحة التحكم",
+    "عزل PIN والقنوات المقفلة والمخفية لكل حساب",
+    "تنفيذ أوامر العميل بالخلفية من الصفحة الرئيسية فقط",
     "تحسين الاستقرار العام"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v48-TEST.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v49-TEST.apk"
 }
