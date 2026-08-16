@@ -1,12 +1,12 @@
 {
-  "versionCode": 49,
+  "versionCode": 50,
   "versionName": "1.0.3",
   "title": "تحديث تجريبي لـ PG 4K",
   "features": [
-    "دعم إعادة تعيين القفل الأبوي لعميل واحد من لوحة التحكم",
-    "عزل PIN والقنوات المقفلة والمخفية لكل حساب",
-    "تنفيذ أوامر العميل بالخلفية من الصفحة الرئيسية فقط",
+    "تحسين استقبال أوامر إعادة تعيين القفل الأبوي عند الرجوع للصفحة الرئيسية",
+    "إعادة تعيين PIN والقنوات المقفلة والمخفية للحساب المطلوب فقط",
+    "تنفيذ فحص الأوامر بالخلفية خارج مسار تشغيل البث",
     "تحسين الاستقرار العام"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v49-TEST.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v50-TEST.apk"
 }
