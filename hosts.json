@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "hosts": [
+    {
+      "id": "NEO",
+      "url": "http://neo4n.com",
+      "aliases": [
+        "http://neo4n.com"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "EAGLE",
+      "url": "http://eagle-xoxo.it.com",
+      "aliases": [
+        "http://eagle-xoxo.it.com"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "XIVO",
+      "url": "http://xivo-na.me:8080",
+      "aliases": [
+        "http://xivo-na.me:8080"
+      ],
+      "enabled": true
+    },
+    {
+      "id": "STRONG",
+      "url": "http://strong-8ks.com",
+      "aliases": [
+        "http://strong-8ks.com"
+      ],
+      "enabled": true
+    }
+  ]
+}
