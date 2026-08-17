@@ -1,5 +1,5 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "versionName": "1.0.3",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
@@ -9,5 +9,5 @@
     "دعم إعادة تعيين القفل الأبوي لعميل واحد من لوحة التحكم",
     "تحسين استقرار إعدادات القفل الأبوي"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.3-64/PG4K-1.0.3-v64.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.3-65/PG4K-1.0.3-v65.apk"
 }
