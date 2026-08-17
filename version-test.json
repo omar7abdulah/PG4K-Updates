@@ -1,5 +1,5 @@
 {
-  "versionCode": 74,
+  "versionCode": 75,
   "versionName": "1.0.3",
   "title": "تحديث تجريبي لـ PG 4K",
   "features": [
@@ -8,5 +8,5 @@
     "الحفاظ على رمز الاسترداد وعدم تغييره مع كل حفظ",
     "تحسين استقرار إعدادات القفل الأبوي"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v74-TEST.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v75-TEST.apk"
 }
