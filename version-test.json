@@ -1,9 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "1.0.3",
+  "versionCode": 95,
+  "versionName": "1.0.4",
   "title": "تحديث تجريبي لـ PG 4K",
-  "features": [
-    "تحسين عرض أسماء تصنيفات الأفلام والمسلسلات الطويلة وإظهار عدد المحتوى بوضوح على سطر ثانٍ عند الحاجة"
-  ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.3/PG4K-1.0.3-v94-TEST.apk"
+  "features": "اختبار نظام اللغة العربية و English مع حفظ آخر اختيار للعميل بعد التحديث",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v95.apk"
 }
