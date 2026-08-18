@@ -2,6 +2,6 @@
   "versionCode": 96,
   "versionName": "1.0.5",
   "title": "تحديث تجريبي لـ PG 4K",
-  "features": "اختبار التحويل الكامل بين العربية و English لواجهات PG 4K مع بقاء أسماء المحتوى كما يرسلها السيرفر",
+  "features": "اكتمال اختبار واجهة العربية و English مع بقاء أسماء القنوات والتصنيفات والأفلام والمسلسلات كما يرسلها السيرفر",
   "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v96.apk"
 }
