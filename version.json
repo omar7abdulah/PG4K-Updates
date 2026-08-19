@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.19",
+  "versionCode": 111,
+  "versionName": "1.0.20",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
     "تحسين استهلاك الذاكرة أثناء البحث الشامل",
@@ -9,5 +9,5 @@
     "تقليل النسخ المكررة من بيانات الأفلام والمسلسلات في الذاكرة",
     "تحسين استقرار البحث عند التعامل مع مكتبات محتوى كبيرة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-v110-20260819-061736.apk"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-v111-20260819-065834.apk"
 }
