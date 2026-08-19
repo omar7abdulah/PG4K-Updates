@@ -1,18 +1,16 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.11",
-  "title": "تحديث تجريبي لـ PG 4K",
+  "versionCode": 103,
+  "versionName": "1.0.12",
+  "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
   "features": [
-    "إضافة إدارة التصنيفات من الإعدادات",
-    "إخفاء وإظهار تصنيف كامل في البث المباشر",
-    "إخفاء وإظهار تصنيف كامل في الأفلام",
-    "إخفاء وإظهار تصنيف كامل في المسلسلات",
-    "إمكانية إعادة أي تصنيف مخفي في أي وقت",
-    "حفظ التصنيفات المخفية لكل حساب بشكل مستقل",
-    "دعم إدارة التصنيفات بالعربية والإنجليزية",
-    "الحفاظ على نظام إخفاء القنوات الحالي بدون تغيير",
-    "الحفاظ على إصلاح موضع المؤشر في الأقسام الرئيسية",
-    "بدون تغيير المشغل أو نظام التحميل أو سرعة المحتوى"
+    "تحميل تصنيفات البث والأفلام والمسلسلات تلقائيًا عند فتح إدارة التصنيفات — Automatically load Live, Movies and Series categories when opening Manage Categories",
+    "لا حاجة لفتح الأقسام مسبقًا لظهور التصنيفات — No need to open each section first",
+    "مؤشر تركيز ذهبي أوضح أثناء التنقل بالريموت — Clear gold focus indicator for TV remote navigation",
+    "إضافة مربع صغير وواضح لحالة إظهار أو إخفاء التصنيف — Clear checkbox for category visibility",
+    "تصغير صفوف التصنيفات لعرض عدد أكبر بشكل أنعم — More compact and refined category rows",
+    "الإخفاء والإظهار يعملان للبث المباشر والأفلام والمسلسلات — Hide and restore categories in Live TV, Movies and Series",
+    "الحفاظ على نظام إخفاء القنوات الحالي بدون تغيير — Existing hidden-channel system remains unchanged",
+    "بدون تغيير المشغل أو تحميل المحتوى أو سرعة التطبيق — No changes to player or normal content-loading flow"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v102-20260819-042732.apk"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v103-20260819-044639.apk"
 }
