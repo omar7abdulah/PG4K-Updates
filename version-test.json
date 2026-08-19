@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.16",
+  "versionCode": 108,
+  "versionName": "1.0.17",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
   "features": [
     "تحميل تصنيفات البث والأفلام والمسلسلات تلقائيًا عند فتح إدارة التصنيفات — Automatically load Live, Movies and Series categories when opening Manage Categories",
@@ -12,5 +12,5 @@
     "الحفاظ على نظام إخفاء القنوات الحالي بدون تغيير — Existing hidden-channel system remains unchanged",
     "بدون تغيير المشغل أو تحميل المحتوى أو سرعة التطبيق — No changes to player or normal content-loading flow"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v107-20260819-054142.apk"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v108-20260819-055905.apk"
 }
