@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.34",
+  "versionCode": 129,
+  "versionName": "1.0.35",
   "title": "تحديث تجريبي جديد لـ PG 4K / PG 4K Test Update",
-  "features": "نسخة تجريبية مستعادة إلى آخر حالة مستقرة قبل تعديلات مظهر الترجمة.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.34-v128/PG4K-1.0.34-v128-TEST.apk"
+  "features": "إعادة تصميم واجهة مشغل الأفلام والمسلسلات بثيم PG 4K الأسود والذهبي مع تحسين أزرار التحكم والتركيز وشريط التقدم، بدون تغيير وظائف التشغيل أو الريموت.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.35-v129/PG4K-1.0.35-v129-TEST.apk"
 }
