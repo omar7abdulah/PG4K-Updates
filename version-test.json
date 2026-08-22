@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.0.33",
+  "versionCode": 128,
+  "versionName": "1.0.34",
   "title": "تحديث تجريبي جديد لـ PG 4K / PG 4K Test Update",
-  "features": "إضافة إعدادات مظهر الترجمة للتحكم بالحجم واللون والحدود والخلفية، مع بقاء شكل الترجمة الأصلي هو الافتراضي حتى يغيّره المستخدم.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.33-v127/PG4K-1.0.33-v127-TEST.apk"
+  "features": "نسخة تجريبية مستعادة إلى آخر حالة مستقرة قبل تعديلات مظهر الترجمة.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.34-v128/PG4K-1.0.34-v128-TEST.apk"
 }
