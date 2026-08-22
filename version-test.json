@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.20",
+  "versionCode": 115,
+  "versionName": "1.0.21",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تحسين وضوح مؤشر الريموت داخل مسار الصوت والترجمة، مع الحفاظ على أزرار حسنًا وإلغاء باللون الذهبي.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v114/PG4K-1.0.20-v114-TEST.apk"
+  "features": "إضافة نظام اللغة العربية والإنجليزية. يبدأ التطبيق حسب لغة الجهاز في أول تشغيل، ويمكن تغيير اللغة يدويًا من الإعدادات مع حفظ آخر اختيار بشكل دائم. أسماء القنوات والتصنيفات والأفلام والمسلسلات تبقى كما يرسلها السيرفر.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.21-v115/PG4K-1.0.21-v115-TEST.apk"
 }
