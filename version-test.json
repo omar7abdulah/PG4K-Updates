@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.31",
-  "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تصحيح زر الرجوع في البث المباشر عند ملء الشاشة: الضغطة الأولى تخفي معلومات وأدوات القناة فقط، والضغطة التالية تعيد المستخدم إلى قائمة البث، بدون تغيير بقية وظائف التطبيق.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.31-v125/PG4K-1.0.31-v125-TEST.apk"
+  "versionCode": 126,
+  "versionName": "1.0.32",
+  "title": "تحديث تجريبي جديد لـ PG 4K / PG 4K Test Update",
+  "features": "إضافة إعدادات مظهر الترجمة: التحكم بحجم الترجمة ولونها وحدودها وخلفيتها. الشكل الأصلي الحالي يبقى هو الافتراضي ولا يتغير إلا إذا قام المستخدم بتغييره من الإعدادات.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.32-v126/PG4K-1.0.32-v126-TEST.apk"
 }
