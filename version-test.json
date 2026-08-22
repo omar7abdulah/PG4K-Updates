@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.20",
+  "versionCode": 116,
+  "versionName": "1.0.22",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تحسين وضوح مؤشر الريموت داخل مسار الصوت والترجمة، مع الحفاظ على أزرار حسنًا وإلغاء باللون الذهبي.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v114/PG4K-1.0.20-v114-TEST.apk"
+  "features": "تحسين ترتيب خيارات مسار الصوت والترجمة أسفل العنوان، وتحسين وضوح مؤشر الريموت عند الوقوف على حسنًا وإلغاء، بدون تغيير وظائف المشغل.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.22-v116/PG4K-1.0.22-v116-TEST.apk"
 }
