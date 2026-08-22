@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
+  "versionCode": 113,
   "versionName": "1.0.20",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تحسين تنقل قسم الأفلام: عند النزول من أيقونة الأفلام ينتقل المؤشر مباشرة إلى جميع الأفلام.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v112/PG4K-1.0.20-v112-TEST.apk"
+  "features": "تحسين تنقل مشغل الأفلام والمسلسلات: بعد التقديم أو الترجيع ينتقل السهم للأعلى إلى زر التشغيل والإيقاف الأوسط.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v113/PG4K-1.0.20-v113-TEST.apk"
 }
