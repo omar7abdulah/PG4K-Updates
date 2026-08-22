@@ -1,7 +1,7 @@
 {
-  "versionCode": 124,
-  "versionName": "1.0.30",
+  "versionCode": 125,
+  "versionName": "1.0.31",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تصحيح موضع مؤشر الريموت الأولي فقط: عند فتح الفيلم يقف على تشغيل الفيلم، وعند فتح المسلسل يقف على الحلقة الأولى، بدون تغيير بقية وظائف التطبيق.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.30-v124/PG4K-1.0.30-v124-TEST.apk"
+  "features": "تصحيح زر الرجوع في البث المباشر عند ملء الشاشة: الضغطة الأولى تخفي معلومات وأدوات القناة فقط، والضغطة التالية تعيد المستخدم إلى قائمة البث، بدون تغيير بقية وظائف التطبيق.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.31-v125/PG4K-1.0.31-v125-TEST.apk"
 }
