@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
+  "versionCode": 114,
   "versionName": "1.0.20",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تحسين تنقل مشغل الأفلام والمسلسلات: بعد التقديم أو الترجيع ينتقل السهم للأعلى إلى زر التشغيل والإيقاف الأوسط.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v113/PG4K-1.0.20-v113-TEST.apk"
+  "features": "تحسين وضوح مؤشر الريموت داخل مسار الصوت والترجمة، مع الحفاظ على أزرار حسنًا وإلغاء باللون الذهبي.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v114/PG4K-1.0.20-v114-TEST.apk"
 }
