@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.25",
+  "versionCode": 120,
+  "versionName": "1.0.26",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": "تحسين موضع قائمة خيارات مسار الصوت والترجمة فقط، مع الحفاظ على مؤشر الريموت وبقية وظائف التطبيق بدون تغيير.",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.25-v119/PG4K-1.0.25-v119-TEST.apk"
+  "features": "تصحيح محاذاة خيارات مسار الصوت والترجمة أفقياً فقط، مع الحفاظ على مؤشر الريموت وبقية وظائف التطبيق بدون تغيير.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.26-v120/PG4K-1.0.26-v120-TEST.apk"
 }
