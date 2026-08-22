@@ -1,16 +1,7 @@
 {
-  "versionCode": 111,
+  "versionCode": 112,
   "versionName": "1.0.20",
   "title": "تحديث تجريبي لـ PG 4K / PG 4K Test Update",
-  "features": [
-    "تحميل تصنيفات البث والأفلام والمسلسلات تلقائيًا عند فتح إدارة التصنيفات — Automatically load Live, Movies and Series categories when opening Manage Categories",
-    "لا حاجة لفتح الأقسام مسبقًا لظهور التصنيفات — No need to open each section first",
-    "مؤشر تركيز ذهبي أوضح أثناء التنقل بالريموت — Clear gold focus indicator for TV remote navigation",
-    "إضافة مربع صغير وواضح لحالة إظهار أو إخفاء التصنيف — Clear checkbox for category visibility",
-    "تصغير صفوف التصنيفات لعرض عدد أكبر بشكل أنعم — More compact and refined category rows",
-    "الإخفاء والإظهار يعملان للبث المباشر والأفلام والمسلسلات — Hide and restore categories in Live TV, Movies and Series",
-    "الحفاظ على نظام إخفاء القنوات الحالي بدون تغيير — Existing hidden-channel system remains unchanged",
-    "بدون تغيير المشغل أو تحميل المحتوى أو سرعة التطبيق — No changes to player or normal content-loading flow"
-  ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v111-20260819-065649.apk"
+  "features": "تحسين تنقل قسم الأفلام: عند النزول من أيقونة الأفلام ينتقل المؤشر مباشرة إلى جميع الأفلام.",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.20-v112/PG4K-1.0.20-v112-TEST.apk"
 }
