@@ -1,7 +1,7 @@
 {
-  "versionCode": 132,
-  "versionName": "1.0.38",
+  "versionCode": 133,
+  "versionName": "1.0.39",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة ترتيب الأفلام والمسلسلات\nخيار آخر الإضافات يعتمد على تاريخ الإضافة من السيرفر\nالأحدث إضافة يظهر أولاً",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.38-v132/PG4K-1.0.38-v132-TEST.apk"
+  "features": "إصلاح آخر الإضافات في جميع تصنيفات الأفلام\nإصلاح ترتيب المسلسلات عبر آخر المستجدات\nتحسين دقة الترتيب بدون طلبات شبكة إضافية",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.39-v133/PG4K-1.0.39-v133-TEST.apk"
 }
