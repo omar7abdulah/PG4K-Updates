@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.42",
+  "versionCode": 137,
+  "versionName": "1.0.43",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تحديث تجريبي PG 4K",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.42-v136/app-release.apk"
+  "features": "تحسين نافذة خيارات التشغيل\nإصلاح أبعاد وتنسيق المسار الصوتي والترجمة ومعلومات البث\nتحسين التنقل بالريموت مع الحفاظ على الدقة وFPS وBitrate ومعلومات البث",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.43-v137/PG4K-1.0.43-v137-TEST.apk"
 }
