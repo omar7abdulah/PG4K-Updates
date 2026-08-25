@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "1.0.47",
+  "versionCode": 142,
+  "versionName": "1.0.48",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة سيرفر MEGA\nإضافة سيرفر TIGER\nدعم الهوست الأساسي والاحتياطي لكل سيرفر\nبدون تغيير المشغل أو الجودة أو التشخيص",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.47-v141/PG4K-1.0.47-v141-TEST.apk"
+  "features": "إضافة Android TV Home - متابعة مشاهدة الأفلام\nإظهار الأفلام غير المكتملة على واجهة Android TV عند دعم الجهاز\nفتح الفيلم من واجهة التلفزيون ومتابعته من موضع المشاهدة المحفوظ\nبدون تغيير المشغل أو الجودة أو Buffer أو السيرفرات",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.48-v142/PG4K-1.0.48-v142-TEST.apk"
 }
