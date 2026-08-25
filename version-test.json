@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "1.0.48",
+  "versionCode": 143,
+  "versionName": "1.0.49",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة Android TV Home - متابعة مشاهدة الأفلام\nإظهار الأفلام غير المكتملة على واجهة Android TV عند دعم الجهاز\nفتح الفيلم من واجهة التلفزيون ومتابعته من موضع المشاهدة المحفوظ\nبدون تغيير المشغل أو الجودة أو Buffer أو السيرفرات",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.48-v142/PG4K-1.0.48-v142-TEST.apk"
+  "features": "إعادة التطبيق للحالة المستقرة والخفيفة\nإزالة تجربة Android TV Home التجريبية بالكامل\nالإبقاء على MEGA وTIGER وجميع المزايا السابقة\nبدون تغيير المشغل أو الجودة أو Buffer أو السيرفرات",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.49-v143/PG4K-1.0.49-v143-TEST.apk"
 }
