@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.0.41",
+  "versionCode": 136,
+  "versionName": "1.0.42",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح تنسيق معلومات البث باللغة العربية\nتوضيح معدل الإطارات ومعدل الفيديو عند عدم توفرهما من المصدر\nتحسين عرض معلومات الصوت والمخزن المؤقت",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.41-v135/PG4K-1.0.41-v135-TEST.apk"
+  "features": "إضافة اختيار لغة التطبيق من الإعدادات\nأول تشغيل يتبع لغة الجهاز تلقائيًا عربي أو English\nحفظ آخر لغة يختارها العميل حتى بعد تحديث التطبيق\nتحويل واجهة التطبيق فقط مع إبقاء أسماء القنوات والتصنيفات والأفلام والمسلسلات كما تأتي من السيرفر",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.42-v136/PG4K-1.0.42-v136-TEST.apk"
 }
