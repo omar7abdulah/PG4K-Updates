@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.39",
+  "versionCode": 134,
+  "versionName": "1.0.40",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح آخر الإضافات في جميع تصنيفات الأفلام\nإصلاح ترتيب المسلسلات عبر آخر المستجدات\nتحسين دقة الترتيب بدون طلبات شبكة إضافية",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.39-v133/PG4K-1.0.39-v133-TEST.apk"
+  "features": "إضافة معلومات البث داخل المشغل\nعرض الدقة ومعدل الإطارات وترميز الفيديو والصوت\nعرض المخزن المؤقت والإطارات الساقطة بدون أي طلبات شبكة إضافية",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.40-v134/PG4K-1.0.40-v134-TEST.apk"
 }
