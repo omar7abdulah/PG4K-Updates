@@ -1,7 +1,7 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.39",
+  "versionCode": 140,
+  "versionName": "1.0.46",
   "title": "تحديث جديد لـ PG 4K",
-  "features": "إضافة ترتيب الأفلام والمسلسلات\nآخر الإضافات في الأفلام\nآخر المستجدات في المسلسلات",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.39/PG4K-1.0.39.apk"
+  "features": "إضافة معلومات وتشخيص حقيقي للبث المباشر والأفلام والمسلسلات\nتحسين التحكم بالريموت داخل معلومات البث\nإضافة إرسال تقرير التشغيل للجوال عبر QR ومشاركته عبر واتساب\nتحسينات على واجهة وتجربة الاستخدام",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.46/PG4K-1.0.46.apk"
 }
