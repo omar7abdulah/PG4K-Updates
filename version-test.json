@@ -1,7 +1,7 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.40",
+  "versionCode": 135,
+  "versionName": "1.0.41",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة معلومات البث داخل المشغل\nعرض الدقة ومعدل الإطارات وترميز الفيديو والصوت\nعرض المخزن المؤقت والإطارات الساقطة بدون أي طلبات شبكة إضافية",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.40-v134/PG4K-1.0.40-v134-TEST.apk"
+  "features": "إصلاح تنسيق معلومات البث باللغة العربية\nتوضيح معدل الإطارات ومعدل الفيديو عند عدم توفرهما من المصدر\nتحسين عرض معلومات الصوت والمخزن المؤقت",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.41-v135/PG4K-1.0.41-v135-TEST.apk"
 }
