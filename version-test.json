@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.0.49",
+  "versionCode": 144,
+  "versionName": "1.0.50",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إعادة التطبيق للحالة المستقرة والخفيفة\nإزالة تجربة Android TV Home التجريبية بالكامل\nالإبقاء على MEGA وTIGER وجميع المزايا السابقة\nبدون تغيير المشغل أو الجودة أو Buffer أو السيرفرات",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.49-v143/PG4K-1.0.49-v143-TEST.apk"
+  "features": "تحسين دقة تشخيص التشغيل\nاستبعاد التقديم والإرجاع وبدء التشغيل والتوقف اليدوي من حساب التقطيع\nفصل أخطاء التحميل القابلة للتعافي عن توقفات التشغيل المؤكدة\nتحسين تشخيص السيرفر/المصدر واتصال العميل والجهاز بدون أي اختبار شبكة إضافي",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.50-v144/PG4K-1.0.50-v144-TEST.apk"
 }
