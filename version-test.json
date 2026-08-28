@@ -1,7 +1,7 @@
 {
-  "versionCode": 147,
-  "versionName": "1.0.53",
+  "versionCode": 148,
+  "versionName": "1.0.54",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح موضع قائمة القنوات في LIVE\nعدم قفز القناة إلى أول القائمة بعد الخروج من ملء الشاشة\nالحفاظ على موضع القائمة عند الرجوع للتصنيفات ثم العودة للقنوات\nبدون تغيير تشغيل القنوات أو الجودة أو EPG أو الشبكة",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.53-v147/PG4K-1.0.53-v147-TEST.apk"
+  "features": "تحديث تجريبي لواجهة تسجيل الدخول\nتحديث خلفية واجهة الدخول بالتصميم ثلاثي الأبعاد الجديد\nبدون تغيير تشغيل القنوات أو السيرفرات أو الجودة",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.54-v148/PG4K-1.0.54-v148-TEST.apk"
 }
