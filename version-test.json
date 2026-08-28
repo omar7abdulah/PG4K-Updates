@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "1.0.56",
+  "versionCode": 151,
+  "versionName": "1.0.57",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تحديث تجريبي لواجهة تسجيل الدخول\nتحديث خلفية واجهة تسجيل الدخول\nبدون تغيير تشغيل القنوات أو السيرفرات أو الجودة",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.56-v150/PG4K-1.0.56-v150-TEST.apk"
+  "features": "إضافة مركز المباريات داخل PG 4K\nعرض مباريات اليوم المحدثة تلقائيًا\nعرض البطولة ووقت المباراة والنتيجة وحالة المباراة\nتحديث البيانات عبر خادم مستقل دون التأثير على تشغيل القنوات أو السيرفرات\nتهيئة تبويب مباريات الغد للمصدر الإضافي",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.57-v151/PG4K-1.0.57-v151-TEST.apk"
 }
