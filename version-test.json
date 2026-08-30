@@ -1,7 +1,7 @@
 {
-  "versionCode": 153,
-  "versionName": "1.0.59",
+  "versionCode": 154,
+  "versionName": "1.0.60",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تحسين دعم PG 4K على الهواتف\nتشغيل التطبيق بالوضع الأفقي على الجوال\nتحسين أبعاد الصفحة الرئيسية للشاشات القصيرة\nإظهار تفاصيل وأسماء الأقسام بشكل كامل على الجوال\nلا تغيير على تصميم التابلت أو Android TV",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.59-v153/PG4K-1.0.59-v153-TEST.apk"
+  "features": "تحسين شامل لواجهة PG 4K على الجوال\nتحسين عرض البث المباشر والقنوات\nتحسين عرض الأفلام والمسلسلات\nتحسين صفحات التفاصيل والتمرير والمواسم والحلقات\nالتعديلات مخصصة للجوال فقط دون تغيير التابلت أو Android TV",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.60-v154/PG4K-1.0.60-v154-TEST.apk"
 }
