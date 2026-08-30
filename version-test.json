@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.58",
+  "versionCode": 153,
+  "versionName": "1.0.59",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة مركز المباريات داخل PG 4K\nعرض مباريات اليوم المحدثة تلقائيًا\nعرض البطولة ووقت المباراة والنتيجة وحالة المباراة\nحذف خيار مباريات الغد مؤقتًا\nمركز المباريات حاليًا مخصص لمباريات اليوم فقط",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.58-v152/PG4K-1.0.58-v152-TEST.apk"
+  "features": "تحسين دعم PG 4K على الهواتف\nتشغيل التطبيق بالوضع الأفقي على الجوال\nتحسين أبعاد الصفحة الرئيسية للشاشات القصيرة\nإظهار تفاصيل وأسماء الأقسام بشكل كامل على الجوال\nلا تغيير على تصميم التابلت أو Android TV",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.59-v153/PG4K-1.0.59-v153-TEST.apk"
 }
