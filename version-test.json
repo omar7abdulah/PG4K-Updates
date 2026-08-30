@@ -1,7 +1,7 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.64",
+  "versionCode": 159,
+  "versionName": "1.0.65",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تحسين واجهة تسجيل الدخول على الجوال\nتقليل عرض لوحة الدخول والقوائم المنبثقة\nتوسيع قائمة القنوات لعرض الأسماء بشكل أفضل\nتحسين مساحة مشغل البث المباشر على الجوال\nلا تغيير على التابلت أو Android TV",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.64-v158/PG4K-1.0.64-v158-TEST.apk"
+  "features": "تحديث تلقائي لمركز المباريات أثناء فتح الصفحة\nمزامنة النتائج والدقيقة تلقائيًا أثناء المباريات\nتحسين دورة تحديث بيانات المباريات المباشرة\nلا تغيير على المشغل أو تسجيل الدخول أو باقي التطبيق",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.65-v159/PG4K-1.0.65-v159-TEST.apk"
 }
