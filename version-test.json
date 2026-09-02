@@ -1,7 +1,7 @@
 {
-  "versionCode": 168,
-  "versionName": "1.0.74",
+  "versionCode": 169,
+  "versionName": "1.0.75",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تحسين التشخيص الذكي للترجمة\nالكشف المباشر عن الترجمة الصورية من Media3 أثناء عرضها\nإظهار تنبيه مرة واحدة فقط عند وجود ترجمة صورية\nعدم إزعاج العميل عند الترجمة النصية\nالحفاظ على تشخيص PGS وVobSub وDVB كتشخيص إضافي\nلا تغيير على تشغيل الفيديو أو اختيار المسارات",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.74-v168/PG4K-1.0.74-v168-TEST.apk"
+  "features": "تحسين التشخيص الذكي للترجمة\nتنبيه صغير وهادئ أعلى الشاشة\nمدة التنبيه 3 ثوانٍ\nتمييز الترجمة النصية والصورية\nلا تغيير على تشغيل الفيديو",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.75-v169/PG4K-1.0.75-v169-TEST.apk"
 }
