@@ -1,7 +1,7 @@
 {
-  "versionCode": 173,
-  "versionName": "1.0.79",
+  "versionCode": 174,
+  "versionName": "1.0.80",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إضافة صور طاقم التمثيل بشكل تجريبي\nحد أقصى 5 ممثلين فقط\nتحميل الصور داخل تفاصيل الفيلم أو المسلسل فقط\nصور مصغرة وخفيفة 160px\nعاملان للتحميل بالخلفية فقط\nكاش ذاكرة بحد أقصى 2MB\nلا تغيير على المشغل أو Live أو قوائم المحتوى",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.79-v173/PG4K-1.0.79-v173-TEST.apk"
+  "features": "تحسين صور طاقم التمثيل\nدعم البحث عن الأسماء العربية في Wikipedia العربية\nدعم الأسماء الأخرى في Wikipedia الإنجليزية\nحد أقصى 5 ممثلين\nحد أقصى طلبان فقط لبيانات الصور\nصور مصغرة 160px\nعاملان فقط للتحميل بالخلفية\nكاش ذاكرة بحد أقصى 2MB\nالتحميل داخل صفحة التفاصيل فقط\nلا تغيير على المشغل أو Live أو القوائم",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.80-v174/PG4K-1.0.80-v174-TEST.apk"
 }
