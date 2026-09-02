@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "1.0.76",
+  "versionCode": 171,
+  "versionName": "1.0.77",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح ظهور تنبيه الترجمة على التلفزيون\nدعم زر الرجوع بالريموت\nالتنبيه صغير أعلى الشاشة لمدة 3 ثوانٍ\nتمييز الترجمة النصية والصورية\nلا تغيير على تشغيل الفيديو",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.76-v170/PG4K-1.0.76-v170-TEST.apk"
+  "features": "إصلاح ظهور تنبيه الترجمة على التلفزيون\nاستخدام تنبيه نظامي فوق طبقة الفيديو\nدعم رجوع التركيز بعد إغلاق نافذة الترجمة\nمدة التنبيه 3 ثوانٍ\nلا تغيير على تشغيل الفيديو",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.77-v171/PG4K-1.0.77-v171-TEST.apk"
 }
