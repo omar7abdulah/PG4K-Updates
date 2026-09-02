@@ -1,7 +1,7 @@
 {
-  "versionCode": 172,
-  "versionName": "1.0.78",
+  "versionCode": 173,
+  "versionName": "1.0.79",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح تكرار تنبيه الترجمة\nعدم إظهار التنبيه عند فتح نافذة الترجمة\nإظهار التنبيه مرة واحدة فقط بعد إغلاقها\nالحفاظ على ظهور التنبيه فوق فيديو التلفزيون\nمدة التنبيه 3 ثوانٍ\nلا تغيير على المشغل",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.78-v172/PG4K-1.0.78-v172-TEST.apk"
+  "features": "إضافة صور طاقم التمثيل بشكل تجريبي\nحد أقصى 5 ممثلين فقط\nتحميل الصور داخل تفاصيل الفيلم أو المسلسل فقط\nصور مصغرة وخفيفة 160px\nعاملان للتحميل بالخلفية فقط\nكاش ذاكرة بحد أقصى 2MB\nلا تغيير على المشغل أو Live أو قوائم المحتوى",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.79-v173/PG4K-1.0.79-v173-TEST.apk"
 }
