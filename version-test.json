@@ -1,7 +1,7 @@
 {
-  "versionCode": 171,
-  "versionName": "1.0.77",
+  "versionCode": 172,
+  "versionName": "1.0.78",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح ظهور تنبيه الترجمة على التلفزيون\nاستخدام تنبيه نظامي فوق طبقة الفيديو\nدعم رجوع التركيز بعد إغلاق نافذة الترجمة\nمدة التنبيه 3 ثوانٍ\nلا تغيير على تشغيل الفيديو",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.77-v171/PG4K-1.0.77-v171-TEST.apk"
+  "features": "إصلاح تكرار تنبيه الترجمة\nعدم إظهار التنبيه عند فتح نافذة الترجمة\nإظهار التنبيه مرة واحدة فقط بعد إغلاقها\nالحفاظ على ظهور التنبيه فوق فيديو التلفزيون\nمدة التنبيه 3 ثوانٍ\nلا تغيير على المشغل",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.78-v172/PG4K-1.0.78-v172-TEST.apk"
 }
