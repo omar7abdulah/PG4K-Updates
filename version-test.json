@@ -1,7 +1,7 @@
 {
-  "versionCode": 181,
-  "versionName": "1.0.87",
+  "versionCode": 182,
+  "versionName": "1.0.88",
   "title": "تحديث تجريبي PG 4K",
-  "features": "استعادة حالة الإصدار 1.0.85 المستقرة بالكامل كنقطة نظيفة قبل إعادة معالجة مشكلة صور الأفلام",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.87-v181/PG4K-1.0.87-v181-TEST.apk"
+  "features": "تحسين قسم الأفلام وثبات أسماء الأفلام بعد تحميل الصور\nنافذة تفاصيل فيلم خفيفة وسريعة بدل فتح صفحة كاملة\nتحسين حجم زر المعلومات والتنقل بالريموت\nالحفاظ على التشغيل والمفضلة ومتابعة المشاهدة\nتحسين التوافق مع الجوال والتابلت والشاشات",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.88-v182/PG4K-1.0.88-v182-TEST.apk"
 }
