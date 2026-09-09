@@ -1,7 +1,7 @@
 {
-  "versionCode": 220,
-  "versionName": "1.0.126",
+  "versionCode": 221,
+  "versionName": "1.0.127",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تثبيت الهوست الذي نجح عليه تسجيل الدخول فعلياً\nمنع استبدال الهوست بعد نجاح الدخول\nاختبار إصلاح MEGA\nTEST ONLY",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.126-v220/PG4K-1.0.126-v220-TEST.apk"
+  "features": "إصلاح توجيه PRIMARY و BACKUP قبل تسجيل الدخول\nتثبيت الهوست الذي نجح عليه الدخول بدون استبداله بعد الدخول\nDedicated بدون تغيير\nTEST ONLY",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.127-v221/PG4K-1.0.127-v221-TEST.apk"
 }
