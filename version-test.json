@@ -1,7 +1,7 @@
 {
-  "versionCode": 219,
-  "versionName": "1.0.125",
+  "versionCode": 220,
+  "versionName": "1.0.126",
   "title": "تحديث تجريبي PG 4K",
-  "features": "Dedicated Route V219\nرفض الهوست غير العامل أثناء تسجيل الدخول\nCONFIRMED فقط بعد نجاح الدخول الفعلي على الهوست المخصص\nTEST ONLY",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.125-v219/PG4K-1.0.125-v219-TEST.apk"
+  "features": "تثبيت الهوست الذي نجح عليه تسجيل الدخول فعلياً\nمنع استبدال الهوست بعد نجاح الدخول\nاختبار إصلاح MEGA\nTEST ONLY",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.126-v220/PG4K-1.0.126-v220-TEST.apk"
 }
