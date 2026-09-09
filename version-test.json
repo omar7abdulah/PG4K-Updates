@@ -1,7 +1,7 @@
 {
-  "versionCode": 217,
-  "versionName": "1.0.123",
+  "versionCode": 218,
+  "versionName": "1.0.124",
   "title": "تحديث تجريبي PG 4K",
-  "features": "Dedicated Route V3 - تأكيد الهوست بعد تسجيل الدخول الفعلي فقط\nتمييز نجاح الهوست المخصص عن Primary/Backup\nعدم تأكيد Dedicated إذا تم استخدام Fallback\nTEST ONLY",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.123-v217/app-release.apk"
+  "features": "Dedicated Route V3 - إصلاح ACK الحقيقي\nCONFIRMED / FAILED حسب نتيجة تسجيل الدخول الفعلية\nTEST ONLY",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.124-v218/PG4K-1.0.124-v218-TEST.apk"
 }
