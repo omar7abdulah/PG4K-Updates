@@ -1,7 +1,7 @@
 {
-  "versionCode": 222,
-  "versionName": "1.0.128",
+  "versionCode": 223,
+  "versionName": "1.0.129",
   "title": "تحديث تجريبي PG 4K",
-  "features": "تثبيت الهوست وعدم تغييره تلقائياً\nPRIMARY و BACKUP حسب اختيار اللوحة فقط\nتطبيق التغيير بعد إغلاق التطبيق وفتحه بدون Force Stop\nالحفاظ على Dedicated والمستخدمين والمفضلة وآخر مشاهدة\nTEST ONLY",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.128-v222/PG4K-1.0.128-v222-TEST.apk"
+  "features": "منع التطبيق من الانتقال تلقائياً إلى هوست آخر\nPRIMARY و BACKUP يعملان فقط حسب اختيار اللوحة\nمنع Silent Fallback إلى Config.SERVERS\nالحفاظ على Dedicated وV220 وV221 وV222\nTEST ONLY",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.129-v223/PG4K-1.0.129-v223-TEST.apk"
 }
