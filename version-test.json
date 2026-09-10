@@ -1,7 +1,7 @@
 {
-  "versionCode": 224,
-  "versionName": "1.0.130",
+  "versionCode": 225,
+  "versionName": "1.0.131",
   "title": "تحديث تجريبي PG 4K",
-  "features": "إصلاح إلغاء Dedicated Host\nبعد الإلغاء يعود الحساب إلى التوجيه العام PRIMARY/BACKUP\nمنع بقاء Dedicated القديم محلياً بعد الإلغاء\nالحفاظ على V220 وV221 وV222 وV223\nTEST ONLY",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.130-v224/PG4K-1.0.130-v224-TEST.apk"
+  "features": "إصلاح إلغاء Dedicated Host\nبعد الإلغاء يعود الحساب مباشرة إلى PRIMARY\nمنع استخدام Dedicated القديم كـ fallback\nتحديث نفس الحساب فقط بدون التأثير على حسابات أخرى\nالحفاظ على V220 وV221 وV222 وV223 وV224\nTEST ONLY",
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.131-v225/PG4K-1.0.131-v225-TEST.apk"
 }
