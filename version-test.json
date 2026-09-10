@@ -1,11 +1,11 @@
 {
-  "versionCode": 228,
-  "versionName": "1.0.134",
+  "versionCode": 229,
+  "versionName": "1.0.135",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
-    "تحسين تطبيق أوامر التوجيه عند إعادة فتح التطبيق",
-    "منع استخدام المسار القديم أثناء تحميل التوجيه الجديد"
+    "تحسين قراءة أوامر التوجيه الخاصة بالحساب",
+    "منع استخدام بيانات PRIMARY أو BACKUP القديمة من الكاش"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.134-v228/PG4K-1.0.134-v228-TEST.apk",
-  "sha256": "63494abc184690cb409ebe9f02695ea86daf4387f28e790b7aa425565072f7f6"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.135-v229/PG4K-1.0.135-v229-TEST.apk",
+  "sha256": "94c3ecfd56a7d1296f485bb9d8464d213b207b827cdaf31043178ce00a323bd3"
 }
