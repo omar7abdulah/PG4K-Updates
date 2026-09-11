@@ -1,11 +1,12 @@
 {
-  "versionCode": 229,
-  "versionName": "1.0.135",
-  "title": "يتوفر تحديث جديد لـ PG 4K",
+  "versionCode": 230,
+  "versionName": "1.0.136",
+  "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين قراءة أوامر التوجيه الخاصة بالحساب",
-    "منع استخدام بيانات PRIMARY أو BACKUP القديمة من الكاش"
+    "إضافة وإزالة الأفلام من المفضلة بالضغط المطول على زر OK",
+    "إضافة وإزالة المسلسلات من المفضلة بالضغط المطول على زر OK",
+    "إظهار علامة القلب على المحتوى الموجود في المفضلة"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.135-v229/PG4K-1.0.135-v229-TEST.apk",
-  "sha256": "94c3ecfd56a7d1296f485bb9d8464d213b207b827cdaf31043178ce00a323bd3"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/test-1.0.136-v230/PG4K-1.0.136-v230-TEST.apk",
+  "sha256": "86abc5758545b37cd270f2cf8cb83cc3c693411e4a4aae4abfb046336cf33d3d"
 }
