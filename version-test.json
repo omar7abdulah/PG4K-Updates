@@ -1,6 +1,6 @@
 {
-  "versionCode": 241,
-  "versionName": "1.0.147",
+  "versionCode": 242,
+  "versionName": "1.0.148",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
     "إضافة وإزالة الأفلام من المفضلة بالضغط المطول",
@@ -10,6 +10,6 @@
     "السحب والتمرير يلغي الضغط المطول",
     "إظهار علامة القلب على المحتوى الموجود في المفضلة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v241-20260911-222659.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v242-20260911-223334.apk",
   "sha256": "3b9b62f7f4851815ad6dc77b7410b70fb90b2dbdcf731ca42bfa509d455022a1"
 }
