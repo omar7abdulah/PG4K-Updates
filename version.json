@@ -1,7 +1,9 @@
 {
-  "versionCode": 215,
-  "versionName": "1.0.121",
-  "title": "تحديث جديد لـ PG 4K",
-  "features": "تطوير وتحسين نظام المفضلة وفروع المفضلة\nتحسين ثبات فتح وإدارة وإعادة تسمية المفضلة\nإضافة ترتيب تصنيفات البث المباشر مع حفظ الترتيب\nتحسين ثبات حركة التصنيفات أثناء الرفع والتنزيل\nتحسين القنوات المخفية ونوافذ PIN والقفل الأبوي\nتحسين التوافق مع Android TV وAndroid Box والريموت\nتحسينات عامة في الثبات وتجربة الاستخدام",
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.121/PG4K-1.0.121.apk"
+  "versionCode": 242,
+  "versionName": "1.0.148",
+  "title": "يتوفر تحديث جديد لـ PG 4K",
+  "features": [
+    "تحسين عرض أسماء تصنيفات الأفلام والمسلسلات الطويلة وإظهار عدد المحتوى بوضوح على سطر ثانٍ عند الحاجة"
+  ],
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.148-242/PG4K-1.0.148-v242.apk"
 }
