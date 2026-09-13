@@ -1,14 +1,10 @@
 {
-  "versionCode": 247,
-  "versionName": "1.0.153",
+  "versionCode": 248,
+  "versionName": "1.0.154",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين خيارات ترتيب الأفلام والمسلسلات",
-    "إضافة الأقدم إضافة والأعلى تقييمًا والأقل تقييمًا",
-    "حفظ آخر ترتيب تم اختياره",
-    "تحسين نافذة الترتيب للجوال والتابلت والشاشات",
-    "إصلاح ظهور تقييم الأفلام والمسلسلات كاملًا على جميع الأجهزة"
+    "تحسين العودة لآخر حلقة تمت مشاهدتها في المسلسلات"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v247-20260912-162829.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v248-20260913-115646.apk",
   "sha256": "3b9b62f7f4851815ad6dc77b7410b70fb90b2dbdcf731ca42bfa509d455022a1"
 }
