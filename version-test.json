@@ -1,10 +1,10 @@
 {
-  "versionCode": 250,
-  "versionName": "1.0.156",
+  "versionCode": 251,
+  "versionName": "1.0.157",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين ثبات نافذة ترتيب الأفلام والمسلسلات"
+    "تصحيح الانتقال إلى الرئيسية من البث المباشر"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v250-20260913-124517.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v251-20260913-125333.apk",
   "sha256": "3b9b62f7f4851815ad6dc77b7410b70fb90b2dbdcf731ca42bfa509d455022a1"
 }
