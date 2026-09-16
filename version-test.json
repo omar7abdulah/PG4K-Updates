@@ -1,12 +1,10 @@
 {
-  "versionCode": 253,
-  "versionName": "1.0.159",
+  "versionCode": 254,
+  "versionName": "1.0.160",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين استقرار تشغيل البث المباشر",
-    "تحسين استعادة التشغيل عند الانقطاع",
-    "تحسين استقرار تشغيل الأفلام والمسلسلات"
+    "تحسين استعادة تشغيل الأفلام والمسلسلات عند التعليق الطويل"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v253-20260916-013840.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v254-20260916-030851.apk",
   "sha256": "3b9b62f7f4851815ad6dc77b7410b70fb90b2dbdcf731ca42bfa509d455022a1"
 }
