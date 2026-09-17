@@ -1,10 +1,11 @@
 {
-  "versionCode": 259,
-  "versionName": "1.0.165",
+  "versionCode": 260,
+  "versionName": "1.0.166",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين استعادة البث عند انقطاع الاتصال وعودته"
+    "تحسين استعادة البث عند انقطاع الاتصال وعودته",
+    "تحسين عرض اختيار السيرفرات على الجوال"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v259-20260917-085237.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v260-20260917-091805.apk",
   "sha256": "3b9b62f7f4851815ad6dc77b7410b70fb90b2dbdcf731ca42bfa509d455022a1"
 }
