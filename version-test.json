@@ -1,10 +1,10 @@
 {
-  "versionCode": 262,
-  "versionName": "1.0.168",
+  "versionCode": 264,
+  "versionName": "1.0.170",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين تأكيد وتحديث الهوست المخصص عند إعادة فتح التطبيق"
+    "إعادة التطبيق للحالة المستقرة السابقة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v262-20260919-191309.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v264-20260925-124658.apk",
   "sha256": "effafc848da4d4daaa6c152f29b25b7b528cf70faae928b6f60eb0249ce94996"
 }
