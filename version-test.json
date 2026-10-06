@@ -1,10 +1,10 @@
 {
-  "versionCode": 272,
-  "versionName": "1.0.178",
+  "versionCode": 273,
+  "versionName": "1.0.179",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين التنقل داخل البحث بالريموت ومنع خروج المؤشر من لوحة المفاتيح"
+    "تحسين لوحة البحث بالريموت مع تنقل دائري داخل الكيبورد"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v272-20261006-214924.apk",
-  "sha256": "49aede57c52974918d39cf1700c67386937ea1aef1f2d34678790c1073bc2938"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v273-20261006-220906.apk",
+  "sha256": "bc2755597b53eee4e34328220f3a12fdcd8d01b3639bd6112e57f4efef58936b"
 }
