@@ -1,10 +1,10 @@
 {
-  "versionCode": 266,
-  "versionName": "1.0.172",
+  "versionCode": 267,
+  "versionName": "1.0.173",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
     "تحسين تشغيل الصوت في الأفلام والمسلسلات على بعض الأجهزة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v266-20261006-204147.apk",
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v267-20261006-204524.apk",
   "sha256": "e0925328c0bc66751c5147fd972d4c5d0f0ce037a4806d269fe0a2cc2fcc8557"
 }
