@@ -1,10 +1,10 @@
 {
-  "versionCode": 276,
-  "versionName": "1.0.182",
+  "versionCode": 277,
+  "versionName": "1.0.183",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تصغير حجم لوحة البحث على التلفزيون وتحسين تناسقها"
+    "استكمال وترتيب الحروف العربية في لوحة البحث على التلفزيون"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v276-20261006-222517.apk",
-  "sha256": "12b3ebe440435ca575f615640de9b6353eb1cd86af86d19add21d233ba923787"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v277-20261006-223131.apk",
+  "sha256": "4db7285b1f77862ff05b69c5e7ab29e264cd0a1ebf801128e1e3cb43bd922e0c"
 }
