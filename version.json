@@ -1,12 +1,9 @@
 {
-  "versionCode": 261,
-  "versionName": "1.0.167",
+  "versionCode": 280,
+  "versionName": "1.0.186",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
-    "تحسين استقرار واستعادة البث عند ضعف أو انقطاع الاتصال",
-    "تحسين توافق واستقرار تشغيل البث المباشر",
-    "تحسين استعادة تشغيل الأفلام والمسلسلات",
-    "تحسين نافذة اختيار السيرفرات على الجوال"
+    "إضافة البحث الصوتي إلى لوحة البحث على التلفزيون"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.167-261/PG4K-1.0.167-v261.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.186-280/PG4K-1.0.186-v280.apk"
 }
