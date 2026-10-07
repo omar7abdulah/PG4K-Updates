@@ -1,9 +1,9 @@
 {
-  "versionCode": 280,
-  "versionName": "1.0.186",
+  "versionCode": 281,
+  "versionName": "1.0.187",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
-    "إضافة البحث الصوتي إلى لوحة البحث على التلفزيون"
+    "إصلاح إعادة تحميل قائمة البث بعد مسح البحث"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.186-280/PG4K-1.0.186-v280.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.187-281/PG4K-1.0.187-v281.apk"
 }
