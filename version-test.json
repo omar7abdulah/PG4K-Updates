@@ -1,10 +1,10 @@
 {
-  "versionCode": 281,
-  "versionName": "1.0.187",
+  "versionCode": 282,
+  "versionName": "1.0.188",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إصلاح إعادة تحميل قائمة البث بعد مسح البحث"
+    "تسريع الرجوع إلى جميع القنوات بدون إعادة تحميل القائمة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v281-20261007-064604.apk",
-  "sha256": "5405ffb2d99fe88f6c6346f2db80270c1776d9f4f5a1c6919d988d519785d03f"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v282-20261007-070112.apk",
+  "sha256": "640cc19859f15cec6625529082bceb5683d24df220bea827afb79a07bf8d9918"
 }
