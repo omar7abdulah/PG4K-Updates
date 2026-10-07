@@ -1,10 +1,10 @@
 {
-  "versionCode": 280,
-  "versionName": "1.0.186",
+  "versionCode": 281,
+  "versionName": "1.0.187",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إضافة البحث الصوتي إلى لوحة البحث على التلفزيون"
+    "إصلاح إعادة تحميل قائمة البث بعد مسح البحث"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v280-20261007-042845.apk",
-  "sha256": "423edaa6f400a7f41d14004db56dff226a07a6402282236dd063adbec394dec3"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v281-20261007-064604.apk",
+  "sha256": "5405ffb2d99fe88f6c6346f2db80270c1776d9f4f5a1c6919d988d519785d03f"
 }
