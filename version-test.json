@@ -1,10 +1,10 @@
 {
-  "versionCode": 283,
-  "versionName": "1.0.189",
+  "versionCode": 284,
+  "versionName": "1.0.190",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحديث تصميم الواجهة الرئيسية بشكل مودرن وخفيف"
+    "تحديث كامل لتصميم الواجهة الرئيسية"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v283-20261012-172852.apk",
-  "sha256": "3a327a5dc3ae1e2454318b77ed312e6a754093c347e3bca72891bd21c3cd053a"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v284-20261012-174840.apk",
+  "sha256": "1ee356e24ad653badcb8c2ea16172f22d3d9d9df9338cdb6a68667fabd3fad8f"
 }
