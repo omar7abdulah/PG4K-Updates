@@ -1,10 +1,10 @@
 {
-  "versionCode": 303,
-  "versionName": "1.0.209",
+  "versionCode": 304,
+  "versionName": "1.0.210",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين إضافي لمقاسات نوافذ المفضلة وخيارات القناة"
+    "تصغير وتحسين نافذة المفضلة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v303-20261017-183558.apk",
-  "sha256": "6814584a1af639d4711045ed995a5e3dea7523983c8eb346c02e91947cc4e4f6"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v304-20261017-184827.apk",
+  "sha256": "7c76b55b5ffeb150ce1ea58cae8f818cc4e90b920c0f4d9ccbe96b1f47ea98ee"
 }
