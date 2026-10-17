@@ -1,10 +1,10 @@
 {
-  "versionCode": 289,
-  "versionName": "1.0.195",
+  "versionCode": 290,
+  "versionName": "1.0.196",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تعديل لون مربعات تحديد المفضلة ليتوافق مع ثيم التطبيق"
+    "تحسين شكل مربعات تحديد المفضلة داخل نافذة إضافة القناة للمفضلة"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v289-20261017-153921.apk",
-  "sha256": "c73adb0d96226300a8261adf02df11b29c078f0ea1f3b74d79d19b371fbbf8c1"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v290-20261017-160323.apk",
+  "sha256": "a13e180b3137f4e34c6b822c049622f65a36c35eef2a68c83f67cca4a72e5ae8"
 }
