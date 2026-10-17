@@ -1,10 +1,10 @@
 {
-  "versionCode": 294,
-  "versionName": "1.0.200",
+  "versionCode": 295,
+  "versionName": "1.0.201",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين محاذاة نافذة المفضلة حسب لغة التطبيق"
+    "تحسين اتجاه نافذة المفضلة حسب لغة التطبيق"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v294-20261017-164035.apk",
-  "sha256": "374574c888a3e75768ea150f2dfd734bff56a07cae9f38bd932e424b0365ac0c"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v295-20261017-164601.apk",
+  "sha256": "8951a6bad90155c31e1d79db96a254271f00dacf98508a05dd45c2f16376dbe9"
 }
