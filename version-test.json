@@ -1,10 +1,10 @@
 {
-  "versionCode": 288,
-  "versionName": "1.0.194",
+  "versionCode": 289,
+  "versionName": "1.0.195",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين توافق صوت القنوات المباشرة على بعض الأجهزة"
+    "تعديل لون مربعات تحديد المفضلة ليتوافق مع ثيم التطبيق"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v288-20261016-194825.apk",
-  "sha256": "ab1bcce8cf98524abf5ae3d54dfc1dbd60a72438cea747355878710a1d3ddaad"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v289-20261017-153921.apk",
+  "sha256": "c73adb0d96226300a8261adf02df11b29c078f0ea1f3b74d79d19b371fbbf8c1"
 }
