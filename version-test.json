@@ -1,10 +1,10 @@
 {
-  "versionCode": 293,
-  "versionName": "1.0.199",
+  "versionCode": 294,
+  "versionName": "1.0.200",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إعادة تصميم نافذة إضافة القنوات إلى المفضلة"
+    "تحسين محاذاة نافذة المفضلة حسب لغة التطبيق"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v293-20261017-163352.apk",
-  "sha256": "cf086fb86d5d6ff02ed74f7fbd724697fdcecd8fcc67539c83e82146434f9635"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v294-20261017-164035.apk",
+  "sha256": "374574c888a3e75768ea150f2dfd734bff56a07cae9f38bd932e424b0365ac0c"
 }
