@@ -1,10 +1,10 @@
 {
-  "versionCode": 306,
-  "versionName": "1.0.212",
+  "versionCode": 307,
+  "versionName": "1.0.213",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إعادة تصميم نافذة إجراءات المفضلة"
+    "تحسين مؤشر المفضلة النشطة والتنقل"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v306-20261017-191342.apk",
-  "sha256": "4eefe329648ed85a9c2fd2cbf7265ffc02e7b1497211d60ddb60655864854f31"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v307-20261017-231413.apk",
+  "sha256": "67363c2da6ba598558d15f06923439cc5a9dc0f5f6caf9cf73105db4f5833c0a"
 }
