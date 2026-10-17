@@ -1,10 +1,10 @@
 {
-  "versionCode": 296,
-  "versionName": "1.0.202",
+  "versionCode": 297,
+  "versionName": "1.0.203",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين ترتيب عناصر نافذة المفضلة للعربية والإنجليزية"
+    "تصحيح رسالة حفظ المفضلة عند عدم وجود تغييرات"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v296-20261017-165333.apk",
-  "sha256": "0087aec2aa1f55e7c90daeef25fd43a23e5223692b8863550a5257442cecfe45"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v297-20261017-170138.apk",
+  "sha256": "146adfc215103bb371aee63d7a51900fc25b592a14e376400d796f2f8b8cf21f"
 }
