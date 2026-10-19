@@ -1,9 +1,9 @@
 {
-  "versionCode": 288,
-  "versionName": "1.0.194",
+  "versionCode": 310,
+  "versionName": "1.0.216",
   "title": "يتوفر تحديث جديد لـ PG 4K",
   "features": [
-    "تحسين توافق صوت القنوات المباشرة على بعض الأجهزة"
+    "تحسين تمدد نافذة المفضلة حتى 7 قوائم"
   ],
-  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.194-288/PG4K-1.0.194-v288.apk"
+  "apkUrl": "https://github.com/omar7abdulah/PG4K-Updates/releases/download/v1.0.216-310/PG4K-1.0.216-v310.apk"
 }
