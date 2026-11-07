@@ -1,10 +1,10 @@
 {
-  "versionCode": 313,
-  "versionName": "1.0.219",
+  "versionCode": 314,
+  "versionName": "1.0.220",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تطبيق التصميم المرجعي للشريط العلوي: فواصل ذهبية رفيعة بين الأقسام وإطار ذهبي مستدير للتبويب النشط مع الحفاظ على الوظائف"
+    "إصلاح ظهور إطار مربع مؤقت عند تحديد تبويب المسلسلات بالريموت، وتوحيد شكل التركيز المستدير مع بقية أقسام الشريط العلوي"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v313-20261107-234710.apk",
-  "sha256": "acf2dde40b43e4071d045933e752c9300c14d1fe4fdefcea5fbc0762075b536f"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v314-20261108-002629.apk",
+  "sha256": "e527e98f8846639955373d9b18af948ece098c2f60125234cac26b0f7576b43c"
 }
