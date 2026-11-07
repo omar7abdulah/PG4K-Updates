@@ -1,11 +1,10 @@
 {
-  "versionCode": 312,
-  "versionName": "1.0.218",
+  "versionCode": 313,
+  "versionName": "1.0.219",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين المظهر البصري للشريط العلوي والتبويبات النشطة والبحث مع الحفاظ على وظائف التطبيق",
-    "إصلاح عدم ظهور جميع الأفلام داخل التصنيفات التي تتجاوز 120 فيلمًا"
+    "تطبيق التصميم المرجعي للشريط العلوي: فواصل ذهبية رفيعة بين الأقسام وإطار ذهبي مستدير للتبويب النشط مع الحفاظ على الوظائف"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v312-20261107-232459.apk",
-  "sha256": "3a866acb1cf164a415c6cf8162b63713447e17633433580e494281003e462eeb"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v313-20261107-234710.apk",
+  "sha256": "acf2dde40b43e4071d045933e752c9300c14d1fe4fdefcea5fbc0762075b536f"
 }
