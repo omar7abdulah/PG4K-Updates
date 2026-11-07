@@ -1,10 +1,11 @@
 {
-  "versionCode": 311,
-  "versionName": "1.0.217",
+  "versionCode": 312,
+  "versionName": "1.0.218",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين تمدد نافذة المفضلة حتى 7 قوائم"
+    "تحسين المظهر البصري للشريط العلوي والتبويبات النشطة والبحث مع الحفاظ على وظائف التطبيق",
+    "إصلاح عدم ظهور جميع الأفلام داخل التصنيفات التي تتجاوز 120 فيلمًا"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v311-20261107-225017.apk",
-  "sha256": "a2ba33ba4543c8f6b1f78488abf09e1f3951e38432d0fd02120800f9d26d851a"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v312-20261107-232459.apk",
+  "sha256": "3a866acb1cf164a415c6cf8162b63713447e17633433580e494281003e462eeb"
 }
