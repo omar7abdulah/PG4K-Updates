@@ -1,10 +1,10 @@
 {
-  "versionCode": 315,
-  "versionName": "1.0.221",
+  "versionCode": 316,
+  "versionName": "1.0.222",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إصلاح إعادة محاولة تحميل تصنيفات البث المباشر بعد فشل الطلب، مع الحفاظ على الكاش ووظائف التطبيق"
+    "تحسين استئناف عرض قوائم الأفلام والمسلسلات عند التنقل السريع أثناء قراءة الكاش، مع الحفاظ على جميع العناصر ووظائف التطبيق"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v315-20261108-041321.apk",
-  "sha256": "7edacb6615b3ae170ccd9c192e4f29bb1d969dcc3d424b723d375af601c02894"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v316-20261108-044905.apk",
+  "sha256": "4742731f8690990475083e349a08c1b2641bda7eb4bd0d677a055d2609e34857"
 }
