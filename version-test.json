@@ -1,10 +1,10 @@
 {
-  "versionCode": 317,
-  "versionName": "1.0.223",
+  "versionCode": 318,
+  "versionName": "1.0.224",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "تحسين الاحتفاظ بقوائم قنوات البث المباشر عند العودة من الرئيسية باستخدام الكاش الصالح، وتقليل طلبات إعادة التحميل غير الضرورية"
+    "إصلاح الاحتفاظ بقوائم البث المباشر والأفلام والمسلسلات عند العودة من الواجهة الرئيسية دون إعادة تحميل غير ضرورية."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v317-20261108-054705.apk",
-  "sha256": "9c3e022bb0856e454bbd330712932a7bbc82425f8a28d6cbd6ca485e8c37353a"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v318-20261108-063958.apk",
+  "sha256": "adb013aedc5231bc8b9f8d357db12f09542a2b0626524f83092f2b3745802ba0"
 }
