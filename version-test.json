@@ -1,10 +1,10 @@
 {
-  "versionCode": 314,
-  "versionName": "1.0.220",
+  "versionCode": 315,
+  "versionName": "1.0.221",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إصلاح ظهور إطار مربع مؤقت عند تحديد تبويب المسلسلات بالريموت، وتوحيد شكل التركيز المستدير مع بقية أقسام الشريط العلوي"
+    "إصلاح إعادة محاولة تحميل تصنيفات البث المباشر بعد فشل الطلب، مع الحفاظ على الكاش ووظائف التطبيق"
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v314-20261108-002629.apk",
-  "sha256": "e527e98f8846639955373d9b18af948ece098c2f60125234cac26b0f7576b43c"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v315-20261108-041321.apk",
+  "sha256": "7edacb6615b3ae170ccd9c192e4f29bb1d969dcc3d424b723d375af601c02894"
 }
