@@ -1,10 +1,10 @@
 {
-  "versionCode": 318,
-  "versionName": "1.0.224",
+  "versionCode": 319,
+  "versionName": "1.0.225",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إصلاح الاحتفاظ بقوائم البث المباشر والأفلام والمسلسلات عند العودة من الواجهة الرئيسية دون إعادة تحميل غير ضرورية."
+    "إعادة ضبط البحث والتصنيف والتركيز عند الدخول مجددًا إلى البث المباشر والأفلام والمسلسلات، مع الحفاظ على القوائم المحمّلة وتحسين التنقل السابق."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v318-20261108-063958.apk",
-  "sha256": "adb013aedc5231bc8b9f8d357db12f09542a2b0626524f83092f2b3745802ba0"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v319-20261108-072312.apk",
+  "sha256": "7bc20a871ad332c89704fde34c8aaa58b5d17a16d1ab79d985bb3c94a869c368"
 }
