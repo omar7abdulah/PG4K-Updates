@@ -1,10 +1,10 @@
 {
-  "versionCode": 319,
-  "versionName": "1.0.225",
+  "versionCode": 320,
+  "versionName": "1.0.226",
   "title": "يتوفر تحديث تجريبي جديد لـ PG 4K",
   "features": [
-    "إعادة ضبط البحث والتصنيف والتركيز عند الدخول مجددًا إلى البث المباشر والأفلام والمسلسلات، مع الحفاظ على القوائم المحمّلة وتحسين التنقل السابق."
+    "تصحيح معرّف سيرفر TIGER في طلبات Dedicated Route فقط، دون تغيير بقية السيرفرات أو وظائف التطبيق."
   ],
-  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v319-20261108-072312.apk",
-  "sha256": "7bc20a871ad332c89704fde34c8aaa58b5d17a16d1ab79d985bb3c94a869c368"
+  "apkUrl": "https://raw.githubusercontent.com/omar7abdulah/PG4K-Updates/main/PG4K-test-v320-20261114-004957.apk",
+  "sha256": "7f4565a7853203ae5516e7a1eb52ebdbcd7cf61f24ab4bc51cfe44616998cd66"
 }
